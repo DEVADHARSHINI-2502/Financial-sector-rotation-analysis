@@ -16,3 +16,11 @@ Power BI
 - Volatility analysis
 - Rolling returns
 - Strategy vs benchmark comparison
+
+## Folders
+
+data/
+notebooks/
+sql/
+powerbi/
+README.md
