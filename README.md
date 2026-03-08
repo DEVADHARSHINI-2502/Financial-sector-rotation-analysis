@@ -1,17 +1,18 @@
-## Project Overview
-This project analyzes bank customer transaction data to understand transaction patterns and customer behavior.
 
-## Dataset
-Synthetic bank transaction dataset containing customer transactions including transaction amount, type, date, and account details.
 
-## Tools Used
-- SQL
-  
+# Sector Rotation Strategy Analysis (2018–2025)
 
-## Key Insights
-- Identified transaction trends across different account types
-- Analyzed customer spending behavior
-- Observed monthly transaction patterns
+## Objective
+Analyze sector-level market data to evaluate whether rotating investments between sectors can improve risk-adjusted returns.
 
-## Files
-- queries.sql 
+## Tools
+Python (Pandas, NumPy)  
+SQL  
+Excel  
+Power BI  
+
+## Key Analysis
+- Sector performance comparison
+- Volatility analysis
+- Rolling returns
+- Strategy vs benchmark comparison
